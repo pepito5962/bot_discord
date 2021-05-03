@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanhertsoen/billy-bot.git"
+  },
+  "author": "Herts. Nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanhertsoen/billy-bot/issues"
+  },
+  "homepage": "https://github.com/nathanhertsoen/billy-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "node-fetch": "^2.6.1",
+    "snekfetch": "^4.0.4"
+  }
+}
