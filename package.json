@@ -8,18 +8,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nathanhertsoen/billy-bot.git"
+    "url": ""
   },
-  "author": "Herts. Nathan",
+  "author": "Poix Erick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nathanhertsoen/billy-bot/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/nathanhertsoen/billy-bot#readme",
+  "homepage": "",
   "dependencies": {
+    "axios": "^0.21.1",
     "discord.js": "^12.5.3",
     "discord.js-commando": "^0.12.3",
+    "dotenv": "^9.0.1",
     "node-fetch": "^2.6.1",
-    "snekfetch": "^4.0.4"
+    "querystring": "^0.2.1",
+    "snekfetch": "^4.0.4",
+    "xmlhttprequest": "^1.8.0",
+    "xmljson": "^0.2.0"
   }
 }
