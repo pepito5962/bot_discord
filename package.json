@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/pepito5962/bot_discord"
   },
   "author": "Poix Erick",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/pepito5962/bot_discord"
   },
-  "homepage": "",
+  "homepage": "https://github.com/pepito5962/bot_discord",
   "dependencies": {
     "axios": "^0.21.1",
     "discord.js": "^12.5.3",
